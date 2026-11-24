@@ -49,7 +49,7 @@ button:hover {
 
 <br>
 
-<img id="xinoo" src="image/xinoo.jpg" alt="Xinoo">
+<img id="xinoo" src="image/xinoo.png" alt="Xinoo">
 
 <br>
 
@@ -92,7 +92,7 @@ document.getElementById("connectBtn").onclick = async () => {
         );
 
         document.getElementById("xinoo").src =
-            "image/xinooconnecter.jpg";
+            "image/xinooconnecter.png";
 
         document.getElementById("status").innerText =
             "🟢 AxolotlBot connecté";
